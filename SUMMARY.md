@@ -9,3 +9,8 @@
   * [1.2.1](chapter-1-1/1.2/1.2.1/README.md)
     * [1.2.1.1](chapter-1-1/1.2/1.2.1/1.2.1.1.md)
 
+## Chapter 2
+
+* [Length](chapter-2/length.md)
+* [Glossary makeshift?](chapter-2/glossary-makeshift.md)
+
