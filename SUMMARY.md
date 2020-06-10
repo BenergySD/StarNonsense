@@ -4,8 +4,8 @@
 
 ## Chapter 1 <a id="chapter-1-1"></a>
 
-* [I want the name to stay like this](chapter-1-1/slug-readable.md)
-* [1.2](1.2/README.md)
-  * [1.2.1](1.2/1.2.1/README.md)
-    * [1.2.1.1](1.2/1.2.1/1.2.1.1.md)
+* [BenergySD/StarNonsense](chapter-1-1/slug-readable.md)
+* [1.2](chapter-1-1/1.2/README.md)
+  * [1.2.1](chapter-1-1/1.2/1.2.1/README.md)
+    * [1.2.1.1](chapter-1-1/1.2/1.2.1/1.2.1.1.md)
 
