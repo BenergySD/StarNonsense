@@ -10,8 +10,8 @@ I want to go [home](../)
 Here's a non-updating code block
 ```
 
-* [ ] Task list
-* [ ] beep
+* [x] Task list
+* [x] beep
 * [ ] boop
 * [ ] bop
 
