@@ -6,7 +6,7 @@ description: Welcome home. How do you like this FAQ Template?
 
 ## Yee haw!
 
-This is an FAQ template. just some headers and text.
+This is an FAQ template. just some headers and text. As of version ..
 
 ## FAQ Question
 
