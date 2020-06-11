@@ -6,12 +6,11 @@
 
 |  | import java.util.concurrent.TimeUnit; |
 | :--- | :--- |
-|  |  |
 |  | public class Milliseconds { |
 |  | // hfkdshfgkdshafgklshakfldhsajkfhdjksal Does this update????? |
 |  |  public static void main\(String\[\] args\) { |
 |  |  long milliseconds = 1000000; |
-|  |  System.out.println\("Does this update??"\) |
+| ghdfjkgjh |  System.out.println\("Does this update??"\) |
 |  |  // long minutes = \(milliseconds / 1000\) / 60; |
 |  |  long minutes = TimeUnit.MILLISECONDS.toMinutes\(milliseconds\); |
 |  |  |
