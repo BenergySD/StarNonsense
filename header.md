@@ -4,11 +4,11 @@ description: header desc
 
 # Header!
 
-wow
+{% file src=".gitbook/assets/foo.ttl" caption="This is an embedded file" %}
 
 ### Heading2
 
-wow2
+`A different flavor of code block`
 
 #### Heading3
 

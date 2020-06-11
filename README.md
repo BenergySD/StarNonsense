@@ -1,5 +1,5 @@
 ---
-description: Welcome home
+description: Welcome home. How do you like this FAQ Template?
 ---
 
 # Home

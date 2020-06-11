@@ -38,6 +38,6 @@ $$
 
 | :S | :P | :O |
 | :--- | :--- | :--- |
-| hgfkjdghjlsdf | gfdn | gfds |
-| gfd | gfds | gfsdgd |
+| Paul | a | Father |
+| Ben | a | Son |
 
