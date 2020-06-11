@@ -4,11 +4,11 @@ description: Welcome home. How do you like this FAQ Template?
 
 # Home
 
-## Can I become who I want to be?
+## Yee haw!
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+This is an FAQ template. just some headers and text.
 
-## Have you had a chance to answer the previous question?
+## FAQ Question
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+FAQ Answer, More information could be [here](chapter-2/glossary-makeshift.md#a-virtual-graph).
 

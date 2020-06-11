@@ -15,3 +15,8 @@
 * [Glossary makeshift?](chapter-2/glossary-makeshift.md)
 * [Header!](header.md)
 
+## Kubernetes
+
+* [Helm Charts](kubernetes/helm-charts.md)
+* [Customizing the Stardog Image](kubernetes/customizing-the-stardog-image.md)
+
