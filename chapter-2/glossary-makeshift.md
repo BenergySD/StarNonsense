@@ -18,3 +18,7 @@ Take me [Home](../#yee-haw)
 
 
 
+A [Virtual Graph](glossary-makeshift.md#a-virtual-graph) is fbdhsakjghjlskdf
+
+
+
